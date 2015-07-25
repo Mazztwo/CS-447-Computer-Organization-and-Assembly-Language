@@ -961,7 +961,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="ALU_DATA"/>
     </comp>
     <comp lib="6" loc="(840,28)" name="Text">
-      <a name="text" val="Alessio Mazzone  ALM238@pitt.edu   0447     Childers MW 3-415      Assignment 3     jrMIPS Processor"/>
+      <a name="text" val="0447     Childers MW 3-415      Assignment 3     jrMIPS Processor"/>
     </comp>
     <comp lib="0" loc="(690,120)" name="Tunnel">
       <a name="facing" val="east"/>
