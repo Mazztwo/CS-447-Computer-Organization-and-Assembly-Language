@@ -1,4 +1,4 @@
-#	Alessio Mazzone		ALM238@pitt.edu	   			#		
+#		   			#		
 #						  							#
 # 		     Assignment 1		   					#
 #            Childers MW 3-415	          			#
