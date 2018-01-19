@@ -1,7 +1,7 @@
 #		   			#		
 #						  							#
 # 		     Assignment 1		   					#
-#            Childers MW 3-415	          			#
+#            	          			#
 #####################################################
 .data
 WelcomeString:	.asciiz		"Welcome to Scrambled ASM!\n"
